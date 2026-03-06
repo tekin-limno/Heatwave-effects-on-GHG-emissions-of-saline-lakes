@@ -1,0 +1,21 @@
+Mesocosm,Mesocosm ID
+Date,Sampling date DD/MM/YYYY
+fCO2,"CO2 flux, (mg C/(m2·d)"
+fCH4,"CH4 flux, (mg C/(m2·d)"
+fN2O,"N2O flux, (ug C/(m2·d)"
+Phase,Experimental phase
+Place,Mescosm site
+Sal,Salinity  (Treatment level)
+Temp,Temperature (Treatment level)
+Treatment,Overall Treatment ID
+AirT,Air temperature (°C
+Temperature,Water Temperature (°C
+SPC,Specific conductance (mS)
+Salinity,Measured salinity (ppt)
+SatDO,Oxygen saturation (%)
+ConcDO,Oxygen concentration (mg/L)
+pH,pH
+Secchi,Secchi depth (cm)
+Chla,Chl-a concentration (ug L)
+TSS,total suspended solids (mg L)
+Alkalinity,alkalinity
